@@ -55,3 +55,21 @@ footer{
     padding-top: 50px;
     padding-bottom: 20px;
 }
+.receipt{
+    margin-top:100px;
+}
+.suc{
+    color:green;
+    font-size: 25px;
+}
+.fai{
+    color: red;
+    font-size: 25px;
+}
+.table{
+    padding:10px;
+    background-color: rgba(202, 202, 202, 0.452);
+}
+.table tr,td{
+    border:1px solid white;
+}
